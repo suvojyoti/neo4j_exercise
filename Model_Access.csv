@@ -1,0 +1,9 @@
+RACF_Model,Application
+RM1,Share_Drive
+RM2,DS_Community
+RM2,SQL_Tables
+RM3,Graph_DB
+RM3,Hadoop
+RM4,Unix
+RM4,SLX_Tables
+RM5,Attendence_System
